@@ -1,0 +1,12 @@
+Not stable, only for test.
+
+---------------------------
+Material:
+
+1. raw.h is generated from gen_raw_rbg.lua and head.bmp.
+2. head.bmp is from head.gif.
+3. head.gif is from: 
+	* http://www.din.or.jp/~nekoneko/sozai.htm
+	* http://www.nekoneko-soft.com/main/imag/icon/FD_yamada.gif
+
+---------------------------
